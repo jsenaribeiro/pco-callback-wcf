@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="a6d844e2-db45-4629-bfc8-308087a3b733" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:59865/FilaDebito/FilaDebito.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="FilaDebito.xsd" MetadataType="Schema" ID="2bafdf73-508b-4aec-b9ef-213f82ea65f3" SourceId="1" SourceUrl="http://localhost:59865/FilaDebito/FilaDebito.svc?xsd=xsd2" />
+    <MetadataFile FileName="FilaDebito.disco" MetadataType="Disco" ID="fb77c9fc-248b-4e04-a960-30f23cebbb13" SourceId="1" SourceUrl="http://localhost:59865/FilaDebito/FilaDebito.svc?disco" />
+    <MetadataFile FileName="FilaDebito1.xsd" MetadataType="Schema" ID="331d6b3c-c2f6-4adf-a429-aec41974ec34" SourceId="1" SourceUrl="http://localhost:59865/FilaDebito/FilaDebito.svc?xsd=xsd0" />
+    <MetadataFile FileName="FilaDebito2.xsd" MetadataType="Schema" ID="45f9287d-19ae-43ce-896d-b62d9d8a3d2e" SourceId="1" SourceUrl="http://localhost:59865/FilaDebito/FilaDebito.svc?xsd=xsd1" />
+    <MetadataFile FileName="FilaDebito.wsdl" MetadataType="Wsdl" ID="4008a818-392b-41a3-80f4-a6fe40277565" SourceId="1" SourceUrl="http://localhost:59865/FilaDebito/FilaDebito.svc?wsdl" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

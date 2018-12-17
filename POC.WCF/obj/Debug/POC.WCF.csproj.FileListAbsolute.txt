@@ -1,0 +1,10 @@
+C:\Users\Jonathan\documents\visual studio 2013\Projects\POC\POC.WCF\bin\POC.WCF.dll.config
+C:\Users\Jonathan\documents\visual studio 2013\Projects\POC\POC.WCF\bin\POC.WCF.dll
+C:\Users\Jonathan\documents\visual studio 2013\Projects\POC\POC.WCF\bin\POC.WCF.pdb
+C:\Users\Jonathan\documents\visual studio 2013\Projects\POC\POC.WCF\obj\Debug\POC.WCF.csprojResolveAssemblyReference.cache
+C:\Users\Jonathan\documents\visual studio 2013\Projects\POC\POC.WCF\obj\Debug\POC.WCF.dll
+C:\Users\Jonathan\documents\visual studio 2013\Projects\POC\POC.WCF\obj\Debug\POC.WCF.pdb
+C:\Users\Jonathan\documents\visual studio 2013\Projects\POC\POC.WCF\bin\POC.DTO.dll
+C:\Users\Jonathan\documents\visual studio 2013\Projects\POC\POC.WCF\bin\POC.DTO.pdb
+C:\Users\Jonathan\documents\visual studio 2013\Projects\POC\POC.WCF\bin\PCO.JOB.dll
+C:\Users\Jonathan\documents\visual studio 2013\Projects\POC\POC.WCF\bin\PCO.JOB.pdb

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://tempuri.org/" elementFormDefault="qualified" targetNamespace="http://tempuri.org/" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:import schemaLocation="http://localhost:59865/FilaDebito/FilaDebito.svc?xsd=xsd2" namespace="http://schemas.datacontract.org/2004/07/POC.DTO" />
+  <xs:element name="Dispatch">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="sequencialPrestacao" type="xs:int" />
+        <xs:element minOccurs="0" name="callbackURL" nillable="true" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="DispatchResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q1="http://schemas.datacontract.org/2004/07/POC.DTO" minOccurs="0" name="DispatchResult" nillable="true" type="q1:ServiceResult" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="Listener">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="sequencialPrestacao" type="xs:int" />
+        <xs:element minOccurs="0" name="pago" type="xs:boolean" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="ListenerResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q2="http://schemas.datacontract.org/2004/07/POC.DTO" minOccurs="0" name="ListenerResult" nillable="true" type="q2:ServiceResult" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

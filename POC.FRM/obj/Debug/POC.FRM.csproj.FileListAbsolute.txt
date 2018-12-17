@@ -1,0 +1,11 @@
+C:\Users\Jonathan\documents\visual studio 2013\Projects\POC\POC.FRM\bin\Debug\POC.FRM.exe.config
+C:\Users\Jonathan\documents\visual studio 2013\Projects\POC\POC.FRM\obj\Debug\POC.FRM.csprojResolveAssemblyReference.cache
+C:\Users\Jonathan\documents\visual studio 2013\Projects\POC\POC.FRM\obj\Debug\POC.FRM.Form1.resources
+C:\Users\Jonathan\documents\visual studio 2013\Projects\POC\POC.FRM\obj\Debug\POC.FRM.Properties.Resources.resources
+C:\Users\Jonathan\documents\visual studio 2013\Projects\POC\POC.FRM\obj\Debug\POC.FRM.csproj.GenerateResource.Cache
+C:\Users\Jonathan\documents\visual studio 2013\Projects\POC\POC.FRM\bin\Debug\POC.FRM.exe
+C:\Users\Jonathan\documents\visual studio 2013\Projects\POC\POC.FRM\bin\Debug\POC.FRM.pdb
+C:\Users\Jonathan\documents\visual studio 2013\Projects\POC\POC.FRM\obj\Debug\POC.FRM.exe
+C:\Users\Jonathan\documents\visual studio 2013\Projects\POC\POC.FRM\obj\Debug\POC.FRM.pdb
+C:\Users\Jonathan\documents\visual studio 2013\Projects\POC\POC.FRM\bin\Debug\POC.DTO.dll
+C:\Users\Jonathan\documents\visual studio 2013\Projects\POC\POC.FRM\bin\Debug\POC.DTO.pdb

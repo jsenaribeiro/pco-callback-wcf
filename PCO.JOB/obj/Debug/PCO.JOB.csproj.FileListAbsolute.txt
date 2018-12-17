@@ -1,0 +1,7 @@
+C:\Users\Jonathan\documents\visual studio 2013\Projects\POC\PCO.JOB\obj\Debug\PCO.JOB.csprojResolveAssemblyReference.cache
+C:\Users\Jonathan\documents\visual studio 2013\Projects\POC\PCO.JOB\bin\Debug\PCO.JOB.dll
+C:\Users\Jonathan\documents\visual studio 2013\Projects\POC\PCO.JOB\bin\Debug\PCO.JOB.pdb
+C:\Users\Jonathan\documents\visual studio 2013\Projects\POC\PCO.JOB\obj\Debug\PCO.JOB.dll
+C:\Users\Jonathan\documents\visual studio 2013\Projects\POC\PCO.JOB\obj\Debug\PCO.JOB.pdb
+C:\Users\Jonathan\documents\visual studio 2013\Projects\POC\PCO.JOB\bin\Debug\POC.DTO.dll
+C:\Users\Jonathan\documents\visual studio 2013\Projects\POC\PCO.JOB\bin\Debug\POC.DTO.pdb

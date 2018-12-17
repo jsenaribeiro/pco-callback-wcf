@@ -1,0 +1,4 @@
+C:\Users\Jonathan\documents\visual studio 2013\Projects\POC\POC.DBF\bin\Debug\POC.DTO.dll
+C:\Users\Jonathan\documents\visual studio 2013\Projects\POC\POC.DBF\bin\Debug\POC.DTO.pdb
+C:\Users\Jonathan\documents\visual studio 2013\Projects\POC\POC.DBF\obj\Debug\POC.DTO.dll
+C:\Users\Jonathan\documents\visual studio 2013\Projects\POC\POC.DBF\obj\Debug\POC.DTO.pdb
