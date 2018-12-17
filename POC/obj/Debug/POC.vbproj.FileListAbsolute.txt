@@ -1,1 +1,0 @@
-c:\users\jonathan\documents\visual studio 2013\Projects\POC\POC\bin\Debug\POC.exe.config
